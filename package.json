@@ -1,0 +1,13 @@
+{
+  "name": "destiny-helper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "kira0x1 <kira.eva@protonmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "chalk": "^4.1.1"
+  }
+}
