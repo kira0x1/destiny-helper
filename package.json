@@ -1,7 +1,7 @@
 {
   "name": "destiny-helper",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "out/index.js",
   "author": "kira0x1 <kira.eva@protonmail.com>",
   "license": "MIT",
   "scripts": {
